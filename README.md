@@ -1,12 +1,10 @@
-- Requires
-  - rails 5.0.1
-  - postgres
-- run
-  - rake db:create db:migrate
-  - rake db:seed # run once to seed default user or use `rails c`
-    - User.create!(email: "", password: "") # some email and password
-  - rails s
-- You can deploy to heroku
-  - heroku create
-  - git push heroku master
-  - heroku rename SOMEOTHERNAME
+# Project2 BACKEND
+
+Members:
+  1. Channayu Prompradub   5680963
+  2. Veeravit Harutaipree  5680374
+
+Hosted Project 2 Rails (Backend) on Heroku [https://webapp-project2-backend-api.herokuapp.com/]
+
+Project 2 Frontend Repository 
+[https://github.com/bankcrazy/project2-frontend]
